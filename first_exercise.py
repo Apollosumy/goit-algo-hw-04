@@ -22,5 +22,5 @@ def total_salary(path):
 
     
 
-path = "C:\\Users\\sumyu\\Documents\\My repo\\goit-algo-hw-04\\first_exercize.txt"
+path = "C:\\Users\\sumyu\\Documents\\My repo\\goit-algo-hw-04\\first_exercise.txt"
 total_salary(path)   
