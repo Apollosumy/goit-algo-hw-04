@@ -11,6 +11,7 @@ def total_salary(path):
             total_amount = sum(int_numbers)
             average_salary = int(sum(int_numbers) / len(int_numbers))
             final_tuple = (total_amount, average_salary)
+            
             print(final_tuple)
     except FileNotFoundError:
         print(f"File not found: {path}")
